@@ -2,6 +2,7 @@ import { ReactNode } from 'react';
 import cx from 'classnames';
 
 import '../styles/question.scss';
+import perfil from '../assets/images/perfil.png';
 
 type QuestionProps = {
   content: string;
@@ -32,7 +33,7 @@ export function Question({
       <p>{content}</p>
       <footer>
         <div className="user-info">
-          <img src={author.avatar} alt={author.name} />
+          <img src={author.avatar ? author.avatar : perfil } alt={author.name} />
           <span>{author.name}</span>
         </div>
         <div>
