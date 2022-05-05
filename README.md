@@ -108,7 +108,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 #### Utilitários
 
--   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Badge)](https://www.figma.com/file/DV0qGD7fY0f7fCJ3py6VOb/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)?node-id=0%3A1)**
+-   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Letmeask)](https://www.figma.com/file/9Oi0oKu6Wfr7QKJxqzfFvq/Letmeask-(Copy)?node-id=45%3A3279)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  
 -   Fontes:  **[Google Font](https://fonts.google.com/)** → **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
